@@ -2,10 +2,11 @@
 
 _______
 
-**Installation du serveur SSH**  
-**Authentification par clef**  
-**Création d’un alias**   
-**Récupération du flux**  
+Fourni un fichier de configuration valide pour un serveur OpenSSH permettant la configuration suivante :   
+
+Le serveur écoute sur le port TCP 222 en IPv6 uniquement   
+Seul l'utilisateur ayant le nom de login wilder peut se connecter   
+La connexion par mot de passe est impossible. Une clé est nécessaire.   
 
 ____
 
@@ -19,9 +20,11 @@ ___
 
 Démarrer le service SSH et modifier le fichier de configuration du serveur SSH se trouvant dans le répertoire _“/etc/ssh/sshd_config_  
 
-![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/f134b242-58c6-48e3-9269-d618a77eadc4)
+![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/bb86806f-7a47-469c-9b21-094b880d557a)
 
 ![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/9f818def-41e8-4d6b-ab2c-a663bc0bc047)
+
+![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/f1376d49-f46d-479c-a6cb-95a78851f4aa)
 
 
 
