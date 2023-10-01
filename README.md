@@ -19,9 +19,9 @@ ___
 
 Démarrer le service SSH et modifier le fichier de configuration du serveur SSH se trouvant dans le répertoire _“/etc/ssh/sshd_config_  
 
-![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/0e3d981e-2515-4803-b966-19f24007d458)
+![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/f134b242-58c6-48e3-9269-d618a77eadc4)
 
 ![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/9f818def-41e8-4d6b-ab2c-a663bc0bc047)
 
-![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/42539278-04aa-497d-b3dd-f9b266498ac9)
+
 
