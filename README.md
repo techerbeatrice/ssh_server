@@ -18,9 +18,9 @@ Installer serveur SSH avec _sudo apt install openssh-server -y_
 
 ___
 
-Démarrer le service SSH et modifier le fichier de configuration du serveur SSH se trouvant dans le répertoire _“/etc/ssh/sshd_config_  
+Démarrer le service SSH et modifier le fichier de configuration du serveur SSH se trouvant dans le répertoire _“/etc/ssh/sshd_config_ 
 
-![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/9f818def-41e8-4d6b-ab2c-a663bc0bc047)
+![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/c177a103-2599-4bc1-b5b6-a7654fef8138)
 
 ![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/f1376d49-f46d-479c-a6cb-95a78851f4aa)
 
@@ -29,3 +29,9 @@ Démarrer le service SSH et modifier le fichier de configuration du serveur SSH 
 ![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/cd8479f5-e500-4000-8db3-d5f1b3665ddf)
 
 ![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/34af70ba-b24d-445d-825e-1c1c4505fbd3)
+
+![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/fb3c4dea-2a9d-43a1-85fb-e9b3c301d987)
+
+
+
+
