@@ -30,7 +30,7 @@ Démarrer le service SSH et modifier le fichier de configuration du serveur SSH 
 
 ![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/34af70ba-b24d-445d-825e-1c1c4505fbd3)
 
-![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/fb3c4dea-2a9d-43a1-85fb-e9b3c301d987)
+![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/abaf3161-5782-47b5-9d55-a1e80f0e6824)
 
 
 
