@@ -34,7 +34,7 @@ La connexion par mot de passe est impossible. Une clé est nécessaire.
 
 paire de clés SSH a été générée    
 
-![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/d64050f1-bf4a-4820-b5fc-54bea91caf38)
+![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/08358a6b-6152-4e62-b434-27ebabddd941)
 
 et modifier le fichier de configuration du serveur SSH se trouvant dans le répertoire _“/etc/ssh/sshd_config_ 
 
@@ -42,6 +42,7 @@ et modifier le fichier de configuration du serveur SSH se trouvant dans le répe
 
 ![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/b26372b7-e18d-479c-99e1-46838d0d845a)
 
+![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/1d52b5a8-bbc3-4e2a-b684-5ded122a8150)
 
 
   
