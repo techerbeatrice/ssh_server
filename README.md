@@ -38,9 +38,10 @@ paire de clés SSH a été générée
 
 et modifier le fichier de configuration du serveur SSH se trouvant dans le répertoire _“/etc/ssh/sshd_config_ 
 
-![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/cd8479f5-e500-4000-8db3-d5f1b3665ddf)
+![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/3e21973c-f6a0-4a4b-9cbc-e94ad007b61a)
 
-![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/34af70ba-b24d-445d-825e-1c1c4505fbd3)
+![image](https://github.com/techerbeatrice/ssh_server/assets/138071140/b26372b7-e18d-479c-99e1-46838d0d845a)
+
 
 
   
